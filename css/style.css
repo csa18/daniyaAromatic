@@ -73,7 +73,7 @@ section{
 }
 
 .header{
-    background: var(--bg);
+    background: #72e399;
     display: flex;
     align-items: center;
     justify-content: space-between;
